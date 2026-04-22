@@ -51,6 +51,8 @@ Building systems that combine:
 ---
 
 ### 🤝 Connect
-- LinkedIn: [https://www.linkedin.com/in/thekakodkar/]
-- Youtube : [https://www.linkedin.com/in/thekakodkar/](https://www.youtube.com/@DecodeAIWithNiraj]
-- Independent R&D: [http://bizzteq.com]
+- 🔗 LinkedIn: https://www.linkedin.com/in/thekakodkar/  
+- ▶️ YouTube (Decode AI with Niraj): https://www.youtube.com/@DecodeAIWithNiraj  
+- 🌐 Independent R&D Lab: http://bizzteq.com  
+- 📘 Authored Book: *Hello AI – First Steps into Artificial Intelligence*  
+  https://www.amazon.com/dp/B0FQW4NS2J  
