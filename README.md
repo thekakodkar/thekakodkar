@@ -51,5 +51,6 @@ Building systems that combine:
 ---
 
 ### 🤝 Connect
-- LinkedIn: [(https://www.linkedin.com/in/thekakodkar/)]  
-- Contact: [http://bizzteq.com]
+- LinkedIn: [https://www.linkedin.com/in/thekakodkar/]
+- Youtube : [https://www.linkedin.com/in/thekakodkar/](https://www.youtube.com/@DecodeAIWithNiraj]
+- Independent R&D: [http://bizzteq.com]
