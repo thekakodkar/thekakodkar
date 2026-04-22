@@ -1,16 +1,55 @@
-## Hi there 👋
+## Hello 🙏, I'm Niraj Kakodkar  
+**Technology Director | AI Strategist | Enterprise Architect**
 
-<!--
-**thekakodkar/thekakodkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **AI-powered, agentic systems** that transform traditional enterprise platforms into **autonomous, decision-driven ecosystems**.
 
-Here are some ideas to get you started:
+My focus is on combining **low-code orchestration** with **hybrid AI routing (local + cloud)** to deliver **scalable, cost-efficient, and production-ready solutions**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I’m Working On
+- 🧠 **Agentic Workflows** using low-code + API-driven orchestration  
+- 🔀 **Hybrid AI Routing** (local LLMs + cloud models) for cost, latency, and control  
+- 🔗 **LLM Integration** into ERP and enterprise systems  
+- 📊 **AI Response Validation & Observability**  
+- ⚙️ **Autonomous Process Optimization**  
+
+---
+
+### 🛠 Tech Stack
+- **Orchestration (Low-Code)**: n8n · Flowise  
+- **LLM Frameworks**: LangChain · LangGraph · LangSmith  
+- **AI & Models**: Ollama · Unsloth  
+- **Backend**: FastAPI · Python  
+- **Vector DB**: Qdrant  
+- **Infra & DevOps**: Docker  
+- **Architecture**: API-First · Microservices · Hybrid AI Routing  
+- **Data**: PostgreSQL  
+
+---
+
+### 🏢 Domains
+- ERP Transformation  
+- Fintech  
+- Consulting & Advisory  
+
+---
+
+### 📈 Current Focus
+Building systems that combine:
+- **low-code automation**
+- **hybrid AI execution (edge + cloud)**
+- **feedback-driven optimization**
+
+→ enabling **intelligent workflows that adapt, learn, and scale efficiently**
+
+---
+
+### 📌 Philosophy
+> “Don’t just automate workflows — build the intelligent control layer for the enterprise.”
+
+---
+
+### 🤝 Connect
+- LinkedIn: [(https://www.linkedin.com/in/thekakodkar/)]  
+- Contact: [http://bizzteq.com]
