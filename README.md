@@ -23,7 +23,7 @@ My focus is on combining **low-code orchestration** with **hybrid AI routing (lo
 
 <!-- ROW 1 -->
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 ## ⚡ Focus
 - 🧠 Agentic Workflows  
@@ -34,7 +34,7 @@ My focus is on combining **low-code orchestration** with **hybrid AI routing (lo
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 ## 🧠 Tech Stack
 
@@ -49,20 +49,31 @@ My focus is on combining **low-code orchestration** with **hybrid AI routing (lo
 | Arch | ![API](https://img.shields.io/badge/API--First-0052CC?style=flat&logo=swagger&logoColor=white) ![Micro](https://img.shields.io/badge/Microservices-FF9900?style=flat&logo=kubernetes&logoColor=white) ![Hybrid](https://img.shields.io/badge/Hybrid%20AI-8A2BE2?style=flat&logo=ai&logoColor=white) |
 
 </td>
+<td valign="top" width="33%">
+
+## 📚 Strategy Articles
+
+- 📖 [Agentic Self-Healing](https://www.linkedin.com/pulse/beyond-hype-cxos-guide-agentic-self-healing-2026-niraj-kakodkar-8rhjf/)  
+- 📖 [Beyond AI Pressure Cooker](https://www.linkedin.com/pulse/beyond-ai-pressure-cooker-architecture-vs-niraj-kakodkar-upzdf/)  
+- 📖 [Cloud ERP; Now What?](https://www.linkedin.com/pulse/erp-has-moved-cloud-now-what-niraj-kakodkar-nbv0f/)  
+- 📖 [Monoliths to Micro-Moves](https://www.linkedin.com/pulse/from-monoliths-micro-moves-why-composable-business-future-kakodkar-a0zjf/)  
+
+</td>
+
 </tr>
 
 <!-- ROW 2 -->
 <tr>
-<td valign="top">
+<td valign="top"  width="33%">
 
 ## 🏢 Domains & Focus
-![ERP](https://img.shields.io/badge/ERP-4B8BBE?style=flat&logo=sap&logoColor=white)
-![Fintech](https://img.shields.io/badge/Fintech-2E8B57?style=flat&logo=visa&logoColor=white)
+![ERP](https://img.shields.io/badge/ERP-4B8BBE?style=flat&logo=&logoColor=white)
+![Fintech](https://img.shields.io/badge/Fintech-2E8B57?style=flat&logo=&logoColor=white)
 ![Consulting](https://img.shields.io/badge/Consulting-FF8C00?style=flat&logo=accenture&logoColor=white)
 
 </td>
 
-<td valign="top">
+<td valign="top"  width="33%">
 
 ## 📈 Direction
 ![Low-Code](https://img.shields.io/badge/Low--Code-6A5ACD?style=flat&logo=n8n&logoColor=white)
@@ -72,10 +83,14 @@ My focus is on combining **low-code orchestration** with **hybrid AI routing (lo
 ➡️ *Adaptive intelligent systems that scale*
 
 </td>
+<td valign="top"  width="33%">
+
+## 📌 Philosophy
+> “Don’t just automate workflows, build the intelligent control layer for the enterprise.”
+
+</td>
 </tr>
 
 </table>
 
-### 📌 Philosophy
-> “Don’t just automate workflows, build the intelligent control layer for the enterprise.”
 
