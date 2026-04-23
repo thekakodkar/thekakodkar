@@ -23,7 +23,7 @@ My focus is on combining **low-code orchestration** with **hybrid AI routing (lo
 
 <!-- ROW 1 -->
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
 ## ⚡ Focus
 - 🧠 Agentic Workflows  
@@ -34,37 +34,26 @@ My focus is on combining **low-code orchestration** with **hybrid AI routing (lo
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
 ## 🧠 Tech Stack
 
 | Area | Tools |
 |------|------|
-| Orchestration | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white) ![Flowise](https://img.shields.io/badge/Flowise-000000?style=flat&logo=flowise&logoColor=white) |
-| LLMs | ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-4B8BBE?style=flat&logo=graphql&logoColor=white) ![LangSmith](https://img.shields.io/badge/LangSmith-FF6F61?style=flat&logo=datadog&logoColor=white) |
-| AI | ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=llama&logoColor=white) ![Unsloth](https://img.shields.io/badge/Unsloth-6A5ACD?style=flat&logo=slack&logoColor=white) |
-| Backend | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| Data | ![Qdrant](https://img.shields.io/badge/Qdrant-FF4F00?style=flat&logo=qdrant&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
-| Infra | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-| Arch | ![API](https://img.shields.io/badge/API--First-0052CC?style=flat&logo=swagger&logoColor=white) ![Micro](https://img.shields.io/badge/Microservices-FF9900?style=flat&logo=kubernetes&logoColor=white) ![Hybrid](https://img.shields.io/badge/Hybrid%20AI-8A2BE2?style=flat&logo=ai&logoColor=white) |
+| Orchestration | [![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)](https://n8n.io) [![Flowise](https://img.shields.io/badge/Flowise-000000?style=flat&logo=flowise&logoColor=white)](https://flowiseai.com) |
+| LLMs | [![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)](https://www.langchain.com) [![LangGraph](https://img.shields.io/badge/LangGraph-4B8BBE?style=flat&logo=graphql&logoColor=white)](https://langchain-ai.github.io/langgraph/) [![LangSmith](https://img.shields.io/badge/LangSmith-FF6F61?style=flat)](https://smith.langchain.com) |
+| AI | [![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=llama&logoColor=white)](https://ollama.com) [![Unsloth](https://img.shields.io/badge/Unsloth-6A5ACD?style=flat)](https://unsloth.ai) |
+| Backend | [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org) |
+| Data | [![Qdrant](https://img.shields.io/badge/Qdrant-FF4F00?style=flat)](https://qdrant.tech) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org) |
+| Infra | [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com) |
+| Arch | [![API First](https://img.shields.io/badge/API--First-0052CC?style=flat&logo=swagger&logoColor=white)](https://swagger.io) [![Microservices](https://img.shields.io/badge/Microservices-FF9900?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io) [![Hybrid AI](https://img.shields.io/badge/Hybrid_AI-8A2BE2?style=flat)](https://en.wikipedia.org/wiki/Hybrid_AI) |
 
 </td>
-<td valign="top" width="33%">
-
-## 📚 Strategy Articles
-
-- 📖 [Agentic Self-Healing](https://www.linkedin.com/pulse/beyond-hype-cxos-guide-agentic-self-healing-2026-niraj-kakodkar-8rhjf/)  
-- 📖 [Beyond AI Pressure Cooker](https://www.linkedin.com/pulse/beyond-ai-pressure-cooker-architecture-vs-niraj-kakodkar-upzdf/)  
-- 📖 [Cloud ERP; Now What?](https://www.linkedin.com/pulse/erp-has-moved-cloud-now-what-niraj-kakodkar-nbv0f/)  
-- 📖 [Monoliths to Micro-Moves](https://www.linkedin.com/pulse/from-monoliths-micro-moves-why-composable-business-future-kakodkar-a0zjf/)  
-
-</td>
-
 </tr>
 
 <!-- ROW 2 -->
 <tr>
-<td valign="top"  width="33%">
+<td valign="top"  width="50%">
 
 ## 🏢 Domains & Focus
 ![ERP](https://img.shields.io/badge/ERP-4B8BBE?style=flat&logo=&logoColor=white)
@@ -73,7 +62,7 @@ My focus is on combining **low-code orchestration** with **hybrid AI routing (lo
 
 </td>
 
-<td valign="top"  width="33%">
+<td valign="top"  width="50%">
 
 ## 📈 Direction
 ![Low-Code](https://img.shields.io/badge/Low--Code-6A5ACD?style=flat&logo=n8n&logoColor=white)
@@ -83,14 +72,21 @@ My focus is on combining **low-code orchestration** with **hybrid AI routing (lo
 ➡️ *Adaptive intelligent systems that scale*
 
 </td>
-<td valign="top"  width="33%">
-
-## 📌 Philosophy
-> “Don’t just automate workflows, build the intelligent control layer for the enterprise.”
-
-</td>
 </tr>
-
 </table>
 
 
+
+<table>
+  
+## 📚 Strategy Articles
+
+- 📖 [Agentic Self-Healing](https://www.linkedin.com/pulse/beyond-hype-cxos-guide-agentic-self-healing-2026-niraj-kakodkar-8rhjf/)  
+- 📖 [Beyond AI Pressure Cooker](https://www.linkedin.com/pulse/beyond-ai-pressure-cooker-architecture-vs-niraj-kakodkar-upzdf/)  
+- 📖 [Cloud ERP; Now What?](https://www.linkedin.com/pulse/erp-has-moved-cloud-now-what-niraj-kakodkar-nbv0f/)  
+- 📖 [Monoliths to Micro-Moves](https://www.linkedin.com/pulse/from-monoliths-micro-moves-why-composable-business-future-kakodkar-a0zjf/)  
+
+</table>
+
+  ## 📌 Philosophy
+> “Don’t just automate workflows, build the intelligent control layer for the enterprise.”
