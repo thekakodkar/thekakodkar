@@ -46,6 +46,7 @@ My focus is on combining **low-code orchestration** with **hybrid AI routing (lo
 | Backend | [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org) |
 | Data | [![Qdrant](https://img.shields.io/badge/Qdrant-FF4F00?style=flat)](https://qdrant.tech) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org) |
 | Infra | [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com) |
+| ERP & Integration | <img src="https://img.shields.io/badge/Infor%20ERP%20LN-red?style=flat&logo=infor&logoColor=white" /> <img src="https://img.shields.io/badge/Infor%20ION-red?style=flat&logo=integration&logoColor=white" /> |
 | Arch | [![API First](https://img.shields.io/badge/API--First-0052CC?style=flat&logo=swagger&logoColor=white)](https://swagger.io) [![Microservices](https://img.shields.io/badge/Microservices-FF9900?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io) [![Hybrid AI](https://img.shields.io/badge/Hybrid_AI-8A2BE2?style=flat)](https://en.wikipedia.org/wiki/Hybrid_AI) |
 
 </td>
@@ -81,10 +82,11 @@ My focus is on combining **low-code orchestration** with **hybrid AI routing (lo
   
 ## 📚 Strategy Articles
 
-- 📖 [Agentic Self-Healing](https://www.linkedin.com/pulse/beyond-hype-cxos-guide-agentic-self-healing-2026-niraj-kakodkar-8rhjf/)  
-- 📖 [Beyond AI Pressure Cooker](https://www.linkedin.com/pulse/beyond-ai-pressure-cooker-architecture-vs-niraj-kakodkar-upzdf/)  
-- 📖 [Cloud ERP; Now What?](https://www.linkedin.com/pulse/erp-has-moved-cloud-now-what-niraj-kakodkar-nbv0f/)  
-- 📖 [Monoliths to Micro-Moves](https://www.linkedin.com/pulse/from-monoliths-micro-moves-why-composable-business-future-kakodkar-a0zjf/)  
+- 📖 [Beyond the Hype: The CXO’s Guide to Agentic Self-Healing in 2026](https://www.linkedin.com/pulse/beyond-hype-cxos-guide-agentic-self-healing-2026-niraj-kakodkar-8rhjf/)  
+- 📖 [Beyond AI Pressure Cooker - Architecture vs Acceleration](https://www.linkedin.com/pulse/beyond-ai-pressure-cooker-architecture-vs-niraj-kakodkar-upzdf/)  
+- 📖 [ERP has moved to Cloud - Now What?](https://www.linkedin.com/pulse/erp-has-moved-cloud-now-what-niraj-kakodkar-nbv0f/)  
+- 📖 [From Monoliths to Micro-Moves](https://www.linkedin.com/pulse/from-monoliths-micro-moves-why-composable-business-future-kakodkar-a0zjf/)
+- 📖 [Full Archives](https://www.linkedin.com/in/thekakodkar/recent-activity/articles/)  
 
 </table>
 
