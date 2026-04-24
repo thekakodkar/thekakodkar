@@ -34,23 +34,13 @@ My focus is on combining **low-code orchestration** with **hybrid AI routing (lo
 
 <!-- ROW 1 -->
 <tr>
-<td valign="top" width="50%">
-
+  
 ## ⚡ Focus
 - 🧠 Agentic Workflows  
 - 🔀 Hybrid AI (local + cloud)  
 - 🔗 ERP + LLM Integration  
 - 📊 AI Observability  
 - ⚙️ Auto Optimization  
-
-</td>
-<td valign="top"  width="50%">
-
-## 🏢 Domains & Focus
-![ERP](https://img.shields.io/badge/ERP-4B8BBE?style=flat&logo=&logoColor=white)
-![Fintech](https://img.shields.io/badge/Fintech-2E8B57?style=flat&logo=&logoColor=white)
-![Consulting](https://img.shields.io/badge/Consulting-FF8C00?style=flat&logo=accenture&logoColor=white)
-
 
 ## 📈 Direction
 ![Low-Code](https://img.shields.io/badge/Low--Code-6A5ACD?style=flat&logo=n8n&logoColor=white)
@@ -59,10 +49,8 @@ My focus is on combining **low-code orchestration** with **hybrid AI routing (lo
 
 ➡️ *Adaptive intelligent systems that scale*
 
-</td>
 </tr>
 <tr>
-<td valign="top">
 
 ## 🧠 Tech Stack
 
@@ -77,7 +65,6 @@ My focus is on combining **low-code orchestration** with **hybrid AI routing (lo
 | ERP & Integration | <img src="https://img.shields.io/badge/Infor%20ERP%20LN-red?style=flat&logo=infor&logoColor=white" /> <img src="https://img.shields.io/badge/Infor%20ION-red?style=flat&logo=integration&logoColor=white" /> |
 | Arch | [![API First](https://img.shields.io/badge/API--First-0052CC?style=flat&logo=swagger&logoColor=white)](https://swagger.io) [![Microservices](https://img.shields.io/badge/Microservices-FF9900?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io) [![Hybrid AI](https://img.shields.io/badge/Hybrid_AI-8A2BE2?style=flat)](https://en.wikipedia.org/wiki/Hybrid_AI) |
 
-</td>
 </tr>
 
 <!-- ROW 2 -->
