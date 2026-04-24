@@ -18,6 +18,17 @@
 I build **AI-powered, agentic systems** that transform traditional enterprise platforms into **autonomous, decision-driven ecosystems**.
 
 My focus is on combining **low-code orchestration** with **hybrid AI routing (local + cloud)** to deliver **scalable, cost-efficient, and production-ready solutions**.
+<table>
+  
+## 📚 Strategy Articles
+
+- 📖 [Beyond the Hype: The CXO’s Guide to Agentic Self-Healing in 2026](https://www.linkedin.com/pulse/beyond-hype-cxos-guide-agentic-self-healing-2026-niraj-kakodkar-8rhjf/)  
+- 📖 [Beyond AI Pressure Cooker - Architecture vs Acceleration](https://www.linkedin.com/pulse/beyond-ai-pressure-cooker-architecture-vs-niraj-kakodkar-upzdf/)  
+- 📖 [ERP has moved to Cloud - Now What?](https://www.linkedin.com/pulse/erp-has-moved-cloud-now-what-niraj-kakodkar-nbv0f/)  
+- 📖 [From Monoliths to Micro-Moves](https://www.linkedin.com/pulse/from-monoliths-micro-moves-why-composable-business-future-kakodkar-a0zjf/)
+- 📖 [Full Archives](https://www.linkedin.com/in/thekakodkar/recent-activity/articles/)  
+
+</table>
 
 <table>
 
@@ -33,8 +44,25 @@ My focus is on combining **low-code orchestration** with **hybrid AI routing (lo
 - ⚙️ Auto Optimization  
 
 </td>
+<td valign="top"  width="50%">
 
-<td valign="top" width="50%">
+## 🏢 Domains & Focus
+![ERP](https://img.shields.io/badge/ERP-4B8BBE?style=flat&logo=&logoColor=white)
+![Fintech](https://img.shields.io/badge/Fintech-2E8B57?style=flat&logo=&logoColor=white)
+![Consulting](https://img.shields.io/badge/Consulting-FF8C00?style=flat&logo=accenture&logoColor=white)
+
+
+## 📈 Direction
+![Low-Code](https://img.shields.io/badge/Low--Code-6A5ACD?style=flat&logo=n8n&logoColor=white)
+![Hybrid AI](https://img.shields.io/badge/Hybrid%20AI-8A2BE2?style=flat&logo=ai&logoColor=white)
+![Feedback](https://img.shields.io/badge/Feedback%20Driven-20B2AA?style=flat&logo=datadog&logoColor=white)
+
+➡️ *Adaptive intelligent systems that scale*
+
+</td>
+</tr>
+<tr>
+<td valign="top">
 
 ## 🧠 Tech Stack
 
@@ -53,42 +81,10 @@ My focus is on combining **low-code orchestration** with **hybrid AI routing (lo
 </tr>
 
 <!-- ROW 2 -->
-<tr>
-<td valign="top"  width="50%">
-
-## 🏢 Domains & Focus
-![ERP](https://img.shields.io/badge/ERP-4B8BBE?style=flat&logo=&logoColor=white)
-![Fintech](https://img.shields.io/badge/Fintech-2E8B57?style=flat&logo=&logoColor=white)
-![Consulting](https://img.shields.io/badge/Consulting-FF8C00?style=flat&logo=accenture&logoColor=white)
-
-</td>
-
-<td valign="top"  width="50%">
-
-## 📈 Direction
-![Low-Code](https://img.shields.io/badge/Low--Code-6A5ACD?style=flat&logo=n8n&logoColor=white)
-![Hybrid AI](https://img.shields.io/badge/Hybrid%20AI-8A2BE2?style=flat&logo=ai&logoColor=white)
-![Feedback](https://img.shields.io/badge/Feedback%20Driven-20B2AA?style=flat&logo=datadog&logoColor=white)
-
-➡️ *Adaptive intelligent systems that scale*
-
-</td>
-</tr>
 </table>
 
 
 
-<table>
-  
-## 📚 Strategy Articles
-
-- 📖 [Beyond the Hype: The CXO’s Guide to Agentic Self-Healing in 2026](https://www.linkedin.com/pulse/beyond-hype-cxos-guide-agentic-self-healing-2026-niraj-kakodkar-8rhjf/)  
-- 📖 [Beyond AI Pressure Cooker - Architecture vs Acceleration](https://www.linkedin.com/pulse/beyond-ai-pressure-cooker-architecture-vs-niraj-kakodkar-upzdf/)  
-- 📖 [ERP has moved to Cloud - Now What?](https://www.linkedin.com/pulse/erp-has-moved-cloud-now-what-niraj-kakodkar-nbv0f/)  
-- 📖 [From Monoliths to Micro-Moves](https://www.linkedin.com/pulse/from-monoliths-micro-moves-why-composable-business-future-kakodkar-a0zjf/)
-- 📖 [Full Archives](https://www.linkedin.com/in/thekakodkar/recent-activity/articles/)  
-
-</table>
 
   ## 📌 Philosophy
 > “Don’t just automate workflows, build the intelligent control layer for the enterprise.”
