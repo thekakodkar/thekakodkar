@@ -20,13 +20,20 @@ I build **AI-powered, agentic systems** that transform traditional enterprise pl
 My focus is on combining **low-code orchestration** with **hybrid AI routing (local + cloud)** to deliver **scalable, cost-efficient, and production-ready solutions**.
 <table>
   
-## 📚 Strategy Articles
+<h2>📚 Strategy Articles</h2>
 
-- 📖 [Beyond the Hype: The CXO’s Guide to Agentic Self-Healing in 2026](https://www.linkedin.com/pulse/beyond-hype-cxos-guide-agentic-self-healing-2026-niraj-kakodkar-8rhjf/)  
-- 📖 [Beyond AI Pressure Cooker - Architecture vs Acceleration](https://www.linkedin.com/pulse/beyond-ai-pressure-cooker-architecture-vs-niraj-kakodkar-upzdf/)  
-- 📖 [ERP has moved to Cloud - Now What?](https://www.linkedin.com/pulse/erp-has-moved-cloud-now-what-niraj-kakodkar-nbv0f/)  
-- 📖 [From Monoliths to Micro-Moves](https://www.linkedin.com/pulse/from-monoliths-micro-moves-why-composable-business-future-kakodkar-a0zjf/)
-- 📖 [Full Archives](https://www.linkedin.com/in/thekakodkar/recent-activity/articles/)  
+<p>
+  <a href="https://www.linkedin.com/in/thekakodkar/recent-activity/articles/">
+    <img src="https://img.shields.io/badge/LinkedIn-Full%20Archives-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<ul>
+  <li>📖 <b>Beyond the Hype:</b> The CXO’s Guide to Agentic Self-Healing in 2026</li>
+  <li>📖 <b>Beyond AI Pressure Cooker:</b> Architecture vs Acceleration</li>
+  <li>📖 <b>ERP Has Moved to Cloud:</b> Now What?</li>
+  <li>📖 <b>From Monoliths to Micro-Moves</b></li>
+</ul>
 
 </table>
 
@@ -34,13 +41,14 @@ My focus is on combining **low-code orchestration** with **hybrid AI routing (lo
 
 <!-- ROW 1 -->
 <tr>
-  
-## ⚡ Focus
-- 🧠 Agentic Workflows  
-- 🔀 Hybrid AI (local + cloud)  
-- 🔗 ERP + LLM Integration  
-- 📊 AI Observability  
-- ⚙️ Auto Optimization  
+
+  ## 🎯 Strategic Focus
+
+🧠 Agentic AI & Autonomous Decisioning  
+🔀 Hybrid Intelligence (On-Prem + Cloud AI)  
+🔗 ERP–AI Convergence & Composable Architectures  
+📊 Observability, Governance & AI Trust  
+⚙️ Adaptive Systems & Self-Optimization  
 
 ## 📈 Direction
 ![Low-Code](https://img.shields.io/badge/Low--Code-6A5ACD?style=flat&logo=n8n&logoColor=white)
