@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@DecodeAIWithNiraj">
-    <img src="https://img.shields.io/badge/YouTube-Decode%20AI%20with%20Niraj-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-Decode%20AI-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
  <a href="https://pypi.org/user/thekakodkar/">
     <img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" />
