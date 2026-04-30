@@ -67,14 +67,14 @@ My focus is on combining **low-code orchestration** with **hybrid AI routing (lo
 
 | Area | Tools |
 |------|------|
-| Orchestration | [![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)](https://n8n.io) [![Flowise](https://img.shields.io/badge/Flowise-000000?style=flat&logo=flowise&logoColor=white)](https://flowiseai.com) |
-| LLMs | [![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)](https://www.langchain.com) [![LangGraph](https://img.shields.io/badge/LangGraph-4B8BBE?style=flat&logo=graphql&logoColor=white)](https://langchain-ai.github.io/langgraph/) [![LangSmith](https://img.shields.io/badge/LangSmith-FF6F61?style=flat)](https://smith.langchain.com) |
-| AI | [![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=llama&logoColor=white)](https://ollama.com) [![Unsloth](https://img.shields.io/badge/Unsloth-6A5ACD?style=flat)](https://unsloth.ai) |
+| Orchestration | [![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)](https://n8n.io) [![Flowise](https://img.shields.io/badge/Flowise-000000?style=flat&logo=flowise&logoColor=white)](https://flowiseai.com) [![LangGraph](https://img.shields.io/badge/LangGraph-4B8BBE?style=flat&logo=graphql&logoColor=white)](https://langchain-ai.github.io/langgraph/)|
+| AI/LLM Frameworks | [![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)](https://www.langchain.com) [![LangSmith](https://img.shields.io/badge/LangSmith-FF6F61?style=flat)](https://smith.langchain.com) |
+| Model Runtime | [![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=llama&logoColor=white)](https://ollama.com) [![Unsloth](https://img.shields.io/badge/Unsloth-6A5ACD?style=flat)](https://unsloth.ai) |
 | Backend | [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org) |
 | Data | [![Qdrant](https://img.shields.io/badge/Qdrant-FF4F00?style=flat)](https://qdrant.tech) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org) |
 | Infra | [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com) |
 | ERP & Integration | <img src="https://img.shields.io/badge/Infor%20ERP%20LN-red?style=flat&logo=infor&logoColor=white" /> <img src="https://img.shields.io/badge/Infor%20ION-red?style=flat&logo=integration&logoColor=white" /> |
-| Arch | [![API First](https://img.shields.io/badge/API--First-0052CC?style=flat&logo=swagger&logoColor=white)](https://swagger.io) [![Microservices](https://img.shields.io/badge/Microservices-FF9900?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io) [![Hybrid AI](https://img.shields.io/badge/Hybrid_AI-8A2BE2?style=flat)](https://en.wikipedia.org/wiki/Hybrid_AI) |
+| Architecture | [![API First](https://img.shields.io/badge/API--First-0052CC?style=flat&logo=swagger&logoColor=white)](https://swagger.io) [![Microservices](https://img.shields.io/badge/Microservices-FF9900?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io) [![Hybrid AI](https://img.shields.io/badge/Hybrid_AI-8A2BE2?style=flat)](https://en.wikipedia.org/wiki/Hybrid_AI) |
 
 </tr>
 
