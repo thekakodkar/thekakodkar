@@ -40,6 +40,16 @@ My focus is on combining **low-code orchestration** with **hybrid AI routing (lo
 
 </table>
 
+### 🚀 Active Projects
+
+Working on these actively; feedback and ⭐ stars are appreciated!
+
+- 🔹 [govAgent](https://github.com/thekakodkar/govAgent)  
+  Governance-first control plane for agentic AI Systems  
+
+- 🔹 [BODtoJSON](https://github.com/thekakodkar/BODtoJSON)  
+  Lightweight utility to convert Infor BOD XML into structured JSON
+  
 <table>
 
 <!-- ROW 1 -->
