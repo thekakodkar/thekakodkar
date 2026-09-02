@@ -49,6 +49,9 @@ Working on these actively; feedback and ⭐ stars are appreciated!
 
 - 🔹 [BODtoJSON](https://github.com/thekakodkar/BODtoJSON)  
   Lightweight utility to convert Infor BOD XML into structured JSON
+
+- 🔹 [operating-the-ai-enterprise-toolkit](https://github.com/thekakodkar/operating-the-ai-enterprise)  
+  Living artifacts supporting the upcoming book "Operating the AI Enterprise"
   
 <table>
 
