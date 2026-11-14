@@ -3,22 +3,22 @@
 
 <p align="left">
   <a href="https://thekakodkar.github.io/">
-    <img src="https://img.shields.io/badge/Executive%20Portfolio-thekakodkar.github.io-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Executive Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-thekakodkar.github.io-0F172A?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/thekakodkar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/@DecodeAIWithNiraj">
-    <img src="https://img.shields.io/badge/YouTube-Decode%20AI-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-Decode%20AI-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://pypi.org/user/thekakodkar/">
-    <img src="https://img.shields.io/badge/PyPI-Open%20Source-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" />
+    <img src="https://img.shields.io/badge/PyPI-Open%20Source-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="PyPI" />
   </a>
   <a href="https://bizzteq.com">
-    <img src="https://img.shields.io/badge/Advisory%20%26%20R%26D-Bizzteq-B45309?style=for-the-badge&logo=databricks&logoColor=white" alt="Bizzteq" />
+    <img src="https://img.shields.io/badge/R%26D%20Lab-Bizzteq-B45309?style=flat-square&logo=databricks&logoColor=white" alt="Bizzteq" />
   </a>
   <a href="https://www.amazon.com/dp/B0FQW4NS2J">
-    <img src="https://img.shields.io/badge/Book-Hello%2C%20AI!-F59E0B?style=for-the-badge&logo=amazon&logoColor=white" alt="Hello, AI!" />
+    <img src="https://img.shields.io/badge/Book-Hello%2C%20AI!-F59E0B?style=flat-square&logo=amazon&logoColor=white" alt="Hello, AI!" />
   </a>
 </p>
 
