@@ -22,7 +22,7 @@
   </a>
 </p>
 
-> *"Don’t just automate workflows—build the deterministic intelligent control layer for the enterprise."*
+> *"Don’t just automate workflows build the deterministic intelligent control layer for the enterprise."*
 
 Over 20 years leading mission-critical enterprise platform and AI transformations across **Europe, the United States, Japan, and India**. I bridge complex systems architecture with deterministic AI governance, sovereign on-premises infrastructure, and measurable C-suite commercial P&L.
 
