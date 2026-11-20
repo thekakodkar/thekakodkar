@@ -114,4 +114,7 @@ Over 20 years leading mission-critical enterprise platform and AI transformation
   * *Beyond AI Pressure Cooker: Architecture vs. Acceleration*
   * *ERP Has Moved to Cloud: Now What?*
   * *From Monoliths to Micro-Moves*
-* **Books & Masterclasses:** Author of ***Operating the AI Enterprise: A Practical Blueprint for CXOs*** (2027) and ***Hello, AI!*** ([Amazon](https://www.amazon.com/dp/B0FQW4NS2J)); host of **[Decode AI with Niraj](https://www.youtube.com/@DecodeAIWithNiraj)**.
+* **Books & Masterclasses:**
+* Author of ***Operating the AI Enterprise: A Practical Blueprint for CXOs*** (2027) and
+* ***Hello, AI!*** ([Amazon](https://www.amazon.com/dp/B0FQW4NS2J));
+* host of **[Decode AI with Niraj](https://www.youtube.com/@DecodeAIWithNiraj)**.
