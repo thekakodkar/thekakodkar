@@ -36,6 +36,8 @@ Over 20 years leading mission-critical enterprise platform and AI transformation
 | **[BODtoJSON](https://github.com/thekakodkar/BODtoJSON)** | Zero-dependency Python engine converting Infor OAGIS XML Business Object Documents into structured JSON and NDJSON payloads via declarative projection schemas. | `pip install BODtoJSON` · [PyPI](https://pypi.org/project/BODtoJSON/) · Infor ERP LN / ION |
 | **[operating-the-ai-enterprise-toolkit](https://github.com/thekakodkar/operating-the-ai-enterprise-toolkit)** | Living architectural blueprints, governance checklists, and reference artifacts supporting the upcoming C-suite book ***Operating the AI Enterprise*** (2027). | Federated Governance · Living Data · EU AI Act ROI |
 | **[Specora](https://getspecora.com)** | Enterprise delivery governance SaaS eliminating specification drift through milestone stage-gates, cross-stream impact graphs, and the Dexter semantic architecture copilot. | [getspecora.com](https://getspecora.com) · Regulated & Industrial Delivery |
+| **[docstruct-ai](https://github.com/thekakodkar/docstruct-ai)** |Model-agnostic OCR and structured extraction library. Turns PDFs, scanned pages, and images into validated JSON, streaming NDJSON, or compliant XML with Pydantic/XSD schema enforcement, local-first VLM routing (Ollama, vLLM), and full provenance telemetry.| `pip install docstruct-ai` . [PyPI](https://pypi.org/project/docstruct-ai/) · Schema in. Structured data out. No vendor lock-in. |
+
 
 ---
 
